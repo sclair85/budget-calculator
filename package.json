@@ -1,0 +1,22 @@
+{
+  "name": "samuel-clair-final-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sclair85/budget-calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sclair85/budget-calculator/issues"
+  },
+  "homepage": "https://github.com/sclair85/budget-calculator#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
